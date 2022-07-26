@@ -20,6 +20,22 @@
 ![MySQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
+### 📈 My GitHub Stats:
+<p align="center">
+<a href="https://github.com/mollyxu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollyxu&theme=prussian&hide_border=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lstsk&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true"/>
+</a>
+</p>
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lstsk&theme=prussian&hide_border=true"/>
+  </a>
+</p>
+
+<br />
+
 
 <!--
 **Lstsk/Lstsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
