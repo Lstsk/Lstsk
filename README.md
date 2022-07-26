@@ -21,7 +21,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
 ### 📈 My GitHub Stats:
-<p align="">
+<p align="center">
 <a href="https://github.com/Lstsk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lstsk&theme=prussian&hide_border=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
