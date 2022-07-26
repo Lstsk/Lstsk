@@ -14,12 +14,12 @@
   <em>hook me up for any projects or ideas</em>
 </p>
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-"><a href="https://www.linkedin.com/in/carson-lin-75017b228/">
+<a href="https://www.linkedin.com/in/carson-lin-75017b228/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+"></a>
 &nbsp;
 </img>
-<img src="https://img.shields.io/badge/Discord-gray?logo=discord&logoColor=white&style=for-the-badge
-"><a href="https://discordapp.com/users/Kasen#0177">
+<a href="https://discordapp.com/users/Kasen#0177"><img src="https://img.shields.io/badge/Discord-gray?logo=discord&logoColor=white&style=for-the-badge
+"></a>
 </img>
 
 </div>
